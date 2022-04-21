@@ -1,4 +1,4 @@
-## Olá! Me chamo Júnior, tudo bem? teste teste  teste  teste  teste  teste  teste  teste  teste  teste  teste 
+## Olá! Me chamo Júnior, tudo bem? 
 
 
 <div align="center" style="display: inline_block">
