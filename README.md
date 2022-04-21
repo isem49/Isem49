@@ -1,4 +1,4 @@
-### Olá! Me chamo Júnior
+## Olá! Me chamo Júnior
 
 <div align="center">
   <a href="https://github.com/isem49">
