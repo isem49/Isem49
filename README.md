@@ -15,9 +15,11 @@
   <img align="center" alt="Junior-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
- ##
-
-    
- ![Snake animation](https://github.com/isem49/isem49/blob/output/github-contribution-grid-snake.svg)
+##
   
+<div>     
+    
+  ![Snake animation](https://github.com/isem49/isem49/blob/output/github-contribution-grid-snake.svg)
+    
+</div> 
 
