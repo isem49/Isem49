@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Júnior</h1>
-<h3 align="center">I'm passionate about all kinds of technologies and I'm always looking for more information about this area that is simply wonderful.</h3>
+<h3 align="center">I'm passionate about Information Technology and I'm always looking for more information about this area that is simply wonderful.</h3>
 
 
 <div align="center" style="display: inline_block">
