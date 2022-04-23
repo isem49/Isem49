@@ -17,7 +17,7 @@
 
  ##
 
- <div>    
+    
  ![Snake animation](https://github.com/isem49/isem49/blob/output/github-contribution-grid-snake.svg)
   
 
