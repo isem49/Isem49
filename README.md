@@ -3,7 +3,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/isem49">
   <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=Isem49&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isem49&layout=compact&langs_count=6&theme=dracula"/>
+  <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isem49&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 
   
