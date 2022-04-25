@@ -35,29 +35,21 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/isem49">
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=isem49&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img  height="165em" src="https://github-readme-stats.vercel.app/api?           username=isem49&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
   <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isem49&layout=compact&langs_count=4&theme=react&bg_color=0D1117"/>
    <a/> 
    <p align="center" ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p> 
    <a/> 
 </div>
 
-
-    
- <img alt="Isem49 Graph" src="https://activity-graph.herokuapp.com/graph?username=isem49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<a href="https://github.com/isem49"> 
+<div>   
+  <img alt="Isem49 Graph" src="https://activity-graph.herokuapp.com/graph?username=isem49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div> 
 <div>     
     
   ![Snake animation](https://github.com/isem49/isem49/blob/output/github-contribution-grid-snake.svg)
     
 </div> 
-
+</a>
 
