@@ -48,7 +48,7 @@
 </div> 
 </a> 
   
-  <p align="center" color="0D1117"><b>Jogo da cobrinha</b>  </p>
+  <p color="0D1117" align="center" >Jogo da cobrinha</p>
   
 <div>     
     
