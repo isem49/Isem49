@@ -46,9 +46,6 @@
 <div>   
   <img alt="Isem49 Graph" src="https://activity-graph.herokuapp.com/graph?username=isem49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div> 
-</a> 
-  
-  <p color="0D1117" align="center" >Jogo da cobrinha</p>
   
 <div>     
     
