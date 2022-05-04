@@ -7,6 +7,7 @@
 
 
 <div align="center" style="display: inline_block">
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" >
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
@@ -26,11 +27,8 @@
   
 </div>
 
-
-  
-<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
-
-
+<br>
+<br>
 
 ## 📊 My Github Stats
 
@@ -55,5 +53,6 @@
     
 </div> 
 </a>
+
 
 
