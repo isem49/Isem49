@@ -6,14 +6,10 @@
 <h3 align="center">I'm passionate about Information Technology and I'm always looking for more information about this area that is simply wonderful.</h3>
 
 
+<div align="center" >
 <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
-<p align="center">
-  
 ## 🚀 Languages and Tools:
-</p>
-
-<div align="center" style="display: inline_block">
 <p align="center"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="#" target="_blank"> <img src="https://imgur.com/ZgbVpce.png"  width="45" height="45"/> </a>
