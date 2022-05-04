@@ -7,12 +7,9 @@
 
 
 <div align="center" style="display: inline_block">
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 ## 🚀 Languages and Tools:
-
-  <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
-
-  
 <p align="center"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="#" target="_blank"> <img src="https://imgur.com/ZgbVpce.png"  width="45" height="45"/> </a>
@@ -30,7 +27,6 @@
   
 </div>
 
-<br>
 <br>
 <br>
 
