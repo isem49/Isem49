@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Júnior</h1>
@@ -7,7 +7,7 @@
 
 
 <div align="center" style="display: inline_block">
-<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
