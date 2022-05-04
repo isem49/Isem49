@@ -5,11 +5,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Júnior</h1>
 <h3 align="center">I'm passionate about Information Technology and I'm always looking for more information about this area that is simply wonderful.</h3>
 
-<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 <div align="center" style="display: inline_block">
 
 ## 🚀 Languages and Tools:
+
+  <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+
+  
 <p align="center"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="#" target="_blank"> <img src="https://imgur.com/ZgbVpce.png"  width="45" height="45"/> </a>
@@ -27,6 +30,7 @@
   
 </div>
 
+<br>
 <br>
 <br>
 
