@@ -26,8 +26,11 @@
   
 </div>
 
-<br>
-<br>
+
+  
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+
+
 
 ## 📊 My Github Stats
 
