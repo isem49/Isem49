@@ -5,9 +5,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Júnior</h1>
 <h3 align="center">I'm passionate about Information Technology and I'm always looking for more information about this area that is simply wonderful.</h3>
 
-<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 <div align="center" style="display: inline_block">
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
