@@ -4,7 +4,7 @@
 <h3 align="center">I'm passionate about Information Technology and I'm always looking for more information about this area that is simply wonderful.</h3>
 
 
-<div align="center" style="display: inline_block">
+<div align="center" >
     
   <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
