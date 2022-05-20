@@ -32,7 +32,7 @@
 
 ## 📊 My Github Stats
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/isem49">
   <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=isem49&show_icons=true&count_private=true&theme=react&bg_color=0D1117"/>
   <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isem49&layout=compact&langs_count=4&theme=react&bg_color=0D1117"/>
