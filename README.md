@@ -5,10 +5,11 @@
 
 
 <div align="center" style="display: inline_block">
-<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
+    <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="#" target="_blank"> <img src="https://imgur.com/ZgbVpce.png"  width="45" height="45"/> </a>
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
