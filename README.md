@@ -3,6 +3,7 @@
 
 
 <div align="center" style="display: inline_block">
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.mp4" />    
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
@@ -21,6 +22,8 @@
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=junirlobo1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+<br>
 
 ## 📊 My Github Stats
 
