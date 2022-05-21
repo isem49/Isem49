@@ -23,8 +23,6 @@
   
 </div>
 
-<br>
-
 ## 📊 My Github Stats
 
 <div align="center" style="display: inline_block">
