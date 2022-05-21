@@ -3,7 +3,7 @@
 
 
 <div align="center" style="display: inline_block">
- <a target="_blank" href="https://www.java.com" > <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" /></a>
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
