@@ -3,13 +3,7 @@
 
 
 <div align="center" style="display: inline_block">
-    
-    
-  <picture>
-        <source media="(max-width: 750px)" srcset="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.mp4" type="image/png">
-        <img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.mp4" />    
- </picture>
-    
+<img align="right" width="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.mp4" />    
 
 ## 🚀 Languages and Tools:
 <p align="center"> 
