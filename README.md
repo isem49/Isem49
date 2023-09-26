@@ -37,7 +37,4 @@
    <a/> 
 </div>
 
-<a href="https://github.com/isem49"> 
-  
 
-</a>
