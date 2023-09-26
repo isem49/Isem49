@@ -34,6 +34,5 @@
   <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isem49&layout=compact&langs_count=8&theme=react&bg_color=0D1117"/> 
    <p align="center" ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p> 
    <a/> 
-</div>
-
+   </div>
 
