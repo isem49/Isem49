@@ -40,15 +40,11 @@
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Contribuições
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=isem49&theme=tokyonight"/>
 </p>
-
----
-
-# 🐍 Contribuições no GitHub
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
