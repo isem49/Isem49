@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Cícero Ricardo</h1>
+<h1 align="center">👋 Olá, eu sou Ricardo Júnior</h1>
 <h3 align="center">💻 Desenvolvedor Full-Stack | 🎓 Ciência da Computação | 📊 Banco de Dados</h3>
 
 <p align="center">
